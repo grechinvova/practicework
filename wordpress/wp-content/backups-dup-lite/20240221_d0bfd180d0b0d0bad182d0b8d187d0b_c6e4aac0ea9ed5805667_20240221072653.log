@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 21.02.2024 07:27
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8.1
+WORDPRESS:	6.4.3
+PHP INFO:	8.1.9 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 84MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20240221_d0bfd180d0b0d0bad182d0b8d187d0b_c6e4aac0ea9ed5805667_20240221072653_database.sql
+SQL FILE SIZE: 1.27MB (1330901)
+SQL FILE TIME: 2024-02-21 07:27:22
+SQL RUNTIME: 3.60 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/wordpress
+ARCHIVE FILE: 20240221_d0bfd180d0b0d0bad182d0b8d187d0b_c6e4aac0ea9ed5805667_20240221072653_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	161.93MB
+STATS:	Dirs 1,417 | Files 9,177
+SQL ADDED: 20240221_d0bfd180d0b0d0bad182d0b8d187d0b_c6e4aac0ea9ed5805667_20240221072653_database.sql
+ZipArchive Object
+(
+    [lastId] => 10593
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10594
+    [filename] => C:\OSPanel\domains\wordpress\wp-content\backups-dup-lite\tmp\20240221_d0bfd180d0b0d0bad182d0b8d187d0b_c6e4aac0ea9ed5805667_20240221072653_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 10593
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 69.82MB
+ARCHIVE RUNTIME: 262.14 sec.
+MEMORY STACK: 86MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.27MB
+INSTALLER FILE: 73.5KB
+ARCHIVE FILE: 71.77MB 
+EXPECTED FILE/DIRECTORY COUNT: 10,594
+ACTUAL FILE/DIRECTORY COUNT: 10,593
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 270.41 sec.
+PEAK PHP MEMORY USED: 88MB
+DONE PROCESSING => 20240221_d0bfd180d0b0d0bad182d0b8d187d0b 21.02.2024 07:31
+
